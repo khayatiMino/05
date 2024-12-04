@@ -11,7 +11,7 @@ body {
     height: 100vh; /* Full viewport height */
     background-color: #f0f8ff; /* Light blue color */
     font-family: Arial, sans-serif; /* Set a default font */
-    background-color: rgb(168, 168, 226);
+    background-color: #87CEEB;
     padding-bottom: 100px;
 }
 
@@ -82,10 +82,10 @@ th, td {
     text-align: center; /* Center text */
 }
 th {
-    background-color: #ea490f; /* Green background for headers */
+    background-color: #1E90FF; /* Green background for headers */
     color: black; /* White text for headers */
 }
 tr {
-    background-color: #ea490fa3; /* Light gray background on hover */
+    background-color: #4682B4; /* Light gray background on hover */
     font-weight: bold;
 }
